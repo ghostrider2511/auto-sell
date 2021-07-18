@@ -1,0 +1,2 @@
+# auto-sell
+town star
