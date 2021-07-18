@@ -1,3 +1,6 @@
+// ==/UserScript==
+
+
 (function() {
     'use strict';
     const sellTimer = 300; 
