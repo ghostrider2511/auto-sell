@@ -1,5 +1,16 @@
+// ==UserScript==
+// @name         Improved Town Star Auto-Sell
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  An improved version of the TownStar Auto-Sell script
+// @author       MrCelticFox
+// @match        https://townstar.sandbox-games.com/launch/
+// @grant        GM_setValue
+// @grant        GM_listValues
+// @grant        GM_getValue
+// @grant        GM_deleteValue
+// @run-at       document-start
 // ==/UserScript==
-
 
 (function() {
     'use strict';
